@@ -1,0 +1,17 @@
+# Executáveis
+raytracer_gui
+*.o
+*.out
+out_*.png
+
+# Pastas de dependências e build
+build/
+vendor/glfw/
+vendor/imgui/
+vendor/glfw/build/
+
+# Sistema e editores
+.DS_Store
+.vscode/
+.idea/
+*.swp
